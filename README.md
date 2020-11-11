@@ -10,8 +10,8 @@
 # Transformations Geometriques
 
 
-![Image2](https://user-images.githubusercontent.com/74276606/98848478-1305d680-2452-11eb-9d84-32764b0cef72.png)  ![Image3](https://user-images.githubusercontent.com/74276606/98848536-27e26a00-2452-11eb-82dd-0bc774057291.png)      ![Image4](https://user-images.githubusercontent.com/74276606/98848593-40528480-2452-11eb-940f-f7c17b48342c.png)
+![Image2](https://user-images.githubusercontent.com/74276606/98848478-1305d680-2452-11eb-9d84-32764b0cef72.png)        ![Image4](https://user-images.githubusercontent.com/74276606/98848593-40528480-2452-11eb-940f-f7c17b48342c.png)
 
    
 
-![Image5](https://user-images.githubusercontent.com/74276606/98848644-54968180-2452-11eb-81b2-ec1f17efe7d0.png) ![Image3](https://user-images.githubusercontent.com/74276606/98848671-5e1fe980-2452-11eb-9e36-2b743a02160f.png)    ![Image6](https://user-images.githubusercontent.com/74276606/98848713-6b3cd880-2452-11eb-9f47-4fcb452b1178.png)
+![Image5](https://user-images.githubusercontent.com/74276606/98848644-54968180-2452-11eb-81b2-ec1f17efe7d0.png)     ![Image6](https://user-images.githubusercontent.com/74276606/98848713-6b3cd880-2452-11eb-9f47-4fcb452b1178.png)
